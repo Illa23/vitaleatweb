@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>VitalEat - Comida Saludable</title>
+</head>
+<body>
+    <h1>Bienvenidos a VitalEat</h1>
+    <p>VitalEat es una empresa dedicada a ofrecer comida saludable, equilibrada y adaptada a cada persona.</p>
+
+    <nav>
+        <a href="index.html">Inicio</a> |
+        <a href="producto.html">Producto</a> |
+        <a href="contacto.html">Contacto</a>
+    </nav>
+
+    <h2>Nuestra misión</h2>
+    <p>Ayudar a las personas a comer mejor sin renunciar al sabor ni al tiempo.</p>
+</body>
+</html>
